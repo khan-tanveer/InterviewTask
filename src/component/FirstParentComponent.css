@@ -1,0 +1,21 @@
+
+.header{
+    box-sizing: border-box;
+    background-color: gray;
+}
+
+.container{
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* position: absolute; */
+}
+
+.card{
+    margin: 2rem;
+    padding: 2rem;
+    /* display: flex;
+    justify-content: space-around; */
+}
